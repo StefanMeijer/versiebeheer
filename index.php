@@ -1,5 +1,5 @@
 <?php
-
+//Autoloading classes
 require_once('vendor/autoload.php');
 
 $exampleLesson = new exampleLessonController;
